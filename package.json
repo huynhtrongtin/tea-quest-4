@@ -7,7 +7,6 @@
   "repository": "https://github.com/huynhtrongtin/tea-quest-4",
   "license": "ISC",
   "dependencies": {
-    "@huytran/tea-xyz-quest": "^3.0.1",
     "@tinhuynh13/tea-quest-3": "^1.0.0",
     "@tinhuynh13/tea-quest-de": "^2.2.0",
     "@tinhuynh13/tea-xyz-quest": "^3.0.0",
